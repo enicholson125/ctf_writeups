@@ -12,4 +12,4 @@ I wrote [netcat.py](./netcat.py) to connect to the socket and answer the questio
 
 Completing the quiz got me the flag!
 
-This was a fun starting challenge and I enjoyed completing it. I just wish I'd converted to Python 3 when I realised I'd started out in Python 2, as the script I've ended up with is a useful toolbox of all those little conversion functions that I always have to look up and which differ quite a lot between Python 2 and 3. It would have been much more useful to have the toolbox in Python 3!
+This was a fun starting challenge and I enjoyed completing it. I just wish I'd converted to Python 3 when I realised I'd started out in Python 2, as the script I've ended up with is a useful toolbox of all those little conversion functions that I always have to look up. Those little conversion functions differ quite a bit between Python 2 and 3, though, so it would have been much more useful to have the toolbox in Python 3!
